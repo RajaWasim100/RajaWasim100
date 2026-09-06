@@ -46,4 +46,5 @@
 
 <a href="https://github.com/RajaWasim100">GitHub</a>
 
-<p align="center"><sub>RajaWasim · Profile layout generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+

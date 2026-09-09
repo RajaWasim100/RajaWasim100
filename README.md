@@ -4,7 +4,7 @@
 
 # RajaWasim
 
-> CS graduate · networking, data, and applied security labs
+> Masters Student @OntarioTech University · networking, data, and applied security labs
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=rajawasim100&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148576057%3Fv%3D4" alt="rajawasim100 hero visual" />
@@ -14,7 +14,7 @@
 
 ## The point of view
 
-> Bachelor's in Computer Science — small, finished artifacts over vague claims.
+> Masters in Information Technology and Security — small, finished artifacts over vague claims.
 
 - Packet Tracer CCNA labs with written takeaways
 - Python + Power BI analytics
